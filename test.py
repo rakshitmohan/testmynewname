@@ -4,6 +4,7 @@ from typing import Dict
 
 import aws_lib
 import pymongo
+import ninja
 
 
 def aws_upload(data: Dict):
